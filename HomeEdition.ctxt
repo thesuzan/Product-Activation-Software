@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=HomeEdition
+comment1.params=productNumber\ productName\ price
+comment1.target=HomeEdition(int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getUserName()
+comment3.params=
+comment3.target=java.lang.String\ getActivationDate()
+comment4.params=
+comment4.target=java.lang.String\ getLicenseExpireDate()
+comment5.params=
+comment5.target=boolean\ getIsActivated()
+comment6.params=price
+comment6.target=void\ setPrice(int)
+comment7.params=userName\ activationDate\ licenseExpireDate\ activationKey
+comment7.target=void\ activateLicense(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment8.params=
+comment8.target=void\ display()
+numComments=9
